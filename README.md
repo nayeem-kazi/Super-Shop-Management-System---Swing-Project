@@ -1,3 +1,3 @@
 # Super-Shop-Management-System---Swing-Project
 This project is created with Swing and MySQL Database.
-It has Two user panel. One is For Admin and other is for Salse Person. Admin can add new User, New Product; Remove users and product and he can also Update them. 
+In this applications user can added new product, category, product history, distributor details, customer details. He also can update and delete product from database. If sales product to customer or return to distributor stock will be decreased and if purchases product from distributor or return product from customer stock will increase. There are a dashboard where user can see everything like todays total sale, total purchase, todays sales history available product item and more things a at a glance. There are also Report Options where user can generate any kind of report and print them. There are also search option where user can Search Product by Product Name or Product Category or Brand Name.
